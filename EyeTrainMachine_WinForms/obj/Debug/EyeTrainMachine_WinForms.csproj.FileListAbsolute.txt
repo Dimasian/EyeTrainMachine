@@ -16,3 +16,12 @@ g:\Arduino projects\EyeTrainMachine_WinForms\EyeTrainMachine_WinForms\obj\Debug\
 g:\Arduino projects\EyeTrainMachine_WinForms\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.EyeTrainMachine.resources
 g:\Arduino projects\EyeTrainMachine_WinForms\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.Properties.Resources.resources
 g:\Arduino projects\EyeTrainMachine_WinForms\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.csproj.GenerateResource.Cache
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\bin\Debug\EyeTrainMachine_WinForms.exe.config
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.exe
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.pdb
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\bin\Debug\EyeTrainMachine_WinForms.exe
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\bin\Debug\EyeTrainMachine_WinForms.pdb
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.csprojResolveAssemblyReference.cache
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.EyeTrainMachine.resources
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.Properties.Resources.resources
+D:\ARDUINO\EyeTrainMachine\EyeTrainMachine_WinForms\obj\Debug\EyeTrainMachine_WinForms.csproj.GenerateResource.Cache
